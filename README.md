@@ -2,7 +2,8 @@
 
  
  <h1>Desafio 1er DIA </h1>
- <p>Valores y tipos de Variables</p>
+ <p>Valores y tipos de Variables: 
+  Jose Gonzalez -Instructor Front-End en Alura Latam</p>
 
 
  ![logo-aluraespanhol](https://github.com/user-attachments/assets/1c6c9033-4d33-45e6-aced-360f7612c182)
